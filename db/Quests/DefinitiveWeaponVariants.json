@@ -1,0 +1,39 @@
+{
+  "de24e643df0e1ca98ac9e601": {
+    "ammoIDs": "127x108",
+    "Unlocks": [
+      "5cde8864d7f00c0010373be1"
+    ],
+    "Image": "00499-2066186280.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "127x108Q1",
+    "QuestForStart": "051ee65c31f3e922a3f237f3",
+    "fromMod": "Definitive Weapon Variants"
+  },
+  "de24e643df0e1ca98ac9e602": {
+    "ammoIDs": "127x108",
+    "Unlocks": [
+      "5d2f2ab648f03550091993ca"
+    ],
+    "Image": "00227-1108833107.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "127x108Q2",
+    "QuestForStart": "de24e643df0e1ca98ac9e601",
+    "fromMod": "Definitive Weapon Variants"
+  },
+  "de24e643df0e1ca98ac9e603": {
+    "ammoIDs": "127x108",
+    "Unlocks": [],
+    "Image": "00224-1108833104.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "127x108Q3",
+    "QuestForStart": "de24e643df0e1ca98ac9e602",
+    "fromMod": "Definitive Weapon Variants"
+  }
+}

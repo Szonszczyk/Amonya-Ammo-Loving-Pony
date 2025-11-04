@@ -1,0 +1,198 @@
+{
+  "0": {
+    "Lvl Name": "0",
+    "Kills": "3",
+    "Roubles": "5000",
+    "Gunpowder": "1",
+    "Junk": "1",
+    "Rewards": {
+      "Experience": "2500"
+    },
+    "Name": "Introduction"
+  },
+  "1": {
+    "Lvl Name": "1",
+    "Kills": "5",
+    "Roubles": "10000",
+    "Rewards": {
+      "Experience": "5000"
+    },
+    "Name": "Beginner"
+  },
+  "2": {
+    "Lvl Name": "2",
+    "Kills": "10",
+    "Roubles": "50000",
+    "Junk": "1",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01"
+    },
+    "Name": "Novice"
+  },
+  "3": {
+    "Lvl Name": "3",
+    "Kills": "20",
+    "Roubles": "150000",
+    "Gunpowder": "1",
+    "Junk": "2",
+    "Antique": "1",
+    "Rewards": {
+      "Experience": "20000",
+      "TraderStanding": "0.01",
+      "MagicAmmoT3": 1
+    },
+    "Name": "Skilled"
+  },
+  "4": {
+    "Lvl Name": "4",
+    "Kills": "30",
+    "Roubles": "300000",
+    "Gunpowder": "2",
+    "Junk": "3",
+    "Antique": "2",
+    "Rewards": {
+      "Experience": "40000",
+      "TraderStanding": "0.01",
+      "MagicAmmoT3": 1
+    },
+    "Name": "Expert"
+  },
+  "5": {
+    "Lvl Name": "5",
+    "Boss": "10",
+    "PMC": "30",
+    "Kills": "60",
+    "Gunpowder": "2",
+    "Junk": "3",
+    "Antique": "2",
+    "Horses": "1",
+    "Valuables": "1",
+    "Coins": "15",
+    "Rewards": {
+      "Experience": "50000",
+      "TraderStanding": "0.02",
+      "MagicAmmoT2": 1
+    },
+    "Name": "Master-Adept"
+  },
+  "6": {
+    "Lvl Name": "6",
+    "Mastery": "80",
+    "Junk": "3",
+    "Antique": "2",
+    "Valuables": "1",
+    "Coins": "15",
+    "Rewards": {
+      "Experience": "100000",
+      "TraderStanding": "0.03",
+      "MagicAmmoT2": 1
+    },
+    "Name": "Master"
+  },
+  "7": {
+    "Lvl Name": "7",
+    "Collector": "120",
+    "Gunpowder": "2",
+    "Junk": "2",
+    "Antique": "2",
+    "Horses": "2",
+    "Valuables": "2",
+    "Coins": "15",
+    "Figurines": "1",
+    "Rewards": {
+      "Experience": "200000",
+      "TraderStanding": "0.04",
+      "MagicAmmoT1": 1
+    },
+    "Name": "Master-Specialist"
+  },
+  "8": {
+    "Lvl Name": "8",
+    "Kills": "200",
+    "Rewards": {
+      "Experience": "300000",
+      "TraderStanding": "0.05",
+      "MagicAmmoT1": 1
+    },
+    "Name": "Elite"
+  },
+  "G1.1": {
+    "Lvl Name": "G1.1",
+    "Kills": "5",
+    "Roubles": "100000",
+    "Gunpowder": "1",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01"
+    },
+    "Name": "Part 1"
+  },
+  "G1.2": {
+    "Lvl Name": "G1.2",
+    "Kills": "6",
+    "Roubles": "100000",
+    "Gunpowder": "2",
+    "Junk": "1",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01"
+    },
+    "Name": "Part 2"
+  },
+  "G1.3": {
+    "Lvl Name": "G1.3",
+    "Kills": "7",
+    "Roubles": "100000",
+    "Gunpowder": "3",
+    "Junk": "2",
+    "Antique": "1",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01",
+      "MagicAmmoT3": 1
+    },
+    "Name": "Part 3"
+  },
+  "G1.4": {
+    "Lvl Name": "G1.4",
+    "Kills": "8",
+    "Roubles": "100000",
+    "Gunpowder": "3",
+    "Junk": "2",
+    "Horses": "1",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01"
+    },
+    "Name": "Part 4"
+  },
+  "G1.5": {
+    "Lvl Name": "G1.5",
+    "Kills": "9",
+    "Roubles": "100000",
+    "Gunpowder": "3",
+    "Junk": "2",
+    "Valuables": "1",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01",
+      "MagicAmmoT2": 1
+    },
+    "Name": "Part 5"
+  },
+  "G1.6": {
+    "Lvl Name": "G1.6",
+    "Kills": "10",
+    "Roubles": "100000",
+    "Gunpowder": "3",
+    "Junk": "2",
+    "Coins": "7",
+    "Rewards": {
+      "Experience": "10000",
+      "TraderStanding": "0.01",
+      "MagicAmmoT1": 1
+    },
+    "Name": "Part 6"
+  }
+}

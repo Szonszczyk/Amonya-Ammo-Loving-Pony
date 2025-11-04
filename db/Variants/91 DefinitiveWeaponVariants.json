@@ -1,0 +1,17 @@
+{
+  "Railgun": {
+    "Bullets": {
+      "12.7x108mm BZT-44M": "127x108Q2"
+    }
+  },
+  "Avada Kedavra": {
+    "Bullets": {
+      "12.7x108mm B-32": "127x108Q2"
+    }
+  },
+  "Pro+": {
+    "Bullets": {
+      "12.7x108mm B-32": "127x108Q3"
+    }
+  }
+}

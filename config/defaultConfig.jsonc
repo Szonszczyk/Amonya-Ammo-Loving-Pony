@@ -1,0 +1,59 @@
+{
+    // Trader refresh time
+    "traderRefreshMin": 1200,
+    "traderRefreshMax": 2400,
+    "addTraderToFlea": true,
+    "ammoPrice": {
+        "multiplier": 0.7, // Price multiplier of bullets sold by Amonya
+        "unlimitedCount": false, // If 'false' Amonya has only 'max' bullets for all players per trader refresh
+        "max": 1000 // Maximum amount that can be bought per trader refresh
+    },
+    // Amonya is selling you 'junk' for GP coins
+    "GPBarter": {
+        "price": 5,
+        "unlimitedCount": false,
+        "max": 5,
+        "traderLevel": 2
+    },
+    // Change any of this to 'false' to disable that bullet variant from appearing in Amonya quests/assort
+    "bullets": {
+        /*01 */"Armor-cracking": true,
+        /*02 */"Bloody": true,
+        /*03 */"Heavy Duty": true,
+        /*04 */"Anti-personnel": true,
+        /*05 */"Full-auto": true,
+        /*06 */"Railgun": true,
+        /*07 */"Artillery": true,
+        /*08 */"Mortar": true,
+        /*09 */"Avada Kedavra": true,
+        /*10 */"ProPlus": true,
+        /*11 */"Hypersonic": true,
+        /*12 */"Sparkle": true,
+        /*13 */"Close Quarters": true,
+        /*14 */"Rubber Grenade": true,
+        /*15 */"Sabot": true,
+        /*16 */"Flamethrower": true,
+        /*17 */"Ratshot": true,
+        /*18 */"Laser": true,
+        /*19 */"Ratshot Mk2": true,
+        /*20 */"Heavy": true,
+        /*21 */"Light": true,
+        /*22 */"Mini-nuke": true,
+        /*23 */"Cluster Bomb": true
+    },
+    // NOT-WORKING AT THIS MOMENT
+    "mode": {
+        "normal": {
+            "enabled": true,
+            "description": "A pony known for hoarding a large amount of ammunition-perhaps even too much for this grey-white, out-of-season creature. However, she might share some if you complete some of her quests...",
+            "traderPicture": "Amonya.jpg",
+            "displayLore": true
+        },
+        "nonPony": {
+            "enabled": false,
+            "description": "A pony known for hoarding a large amount of ammunition-perhaps even too much for this grey-white, out-of-season creature. However, she might share some if you complete some of her quests...",
+            "traderPicture": "Amonya.jpg",
+            "displayLore": false
+        }
+    }
+}

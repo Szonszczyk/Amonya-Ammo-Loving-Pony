@@ -1,0 +1,43 @@
+{
+    "c6a27e7427123c17d88ba9b8": {
+		"itemTplToClone": "5ede4739e0350d05467f73e8",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"FragmentsCount": 0,
+			"InitialSpeed": 120,
+			"ExplosionStrength": 80,
+			"MinExplosionDistance": 1,
+            "MaxExplosionDistance": 4,
+			"FuzeArmTimeSec": 0,
+			"AmmoLifeTimeSec": 1.5
+		},
+		"locales": {
+			"en": {
+				"name": "Cluster Bomb Fragment",
+				"shortName": "Cluster Bomb Fragment",
+				"description": "Part of Amonya mod. It is fragment for Cluster Bomb ammo variant."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 1,
+		"handbookPriceRoubles": 1,
+		"addtoTraders": false,
+		"traderId": "ee840a5ba014e9c5478d5ccd",
+		"traderItems": [],
+		"barterScheme": [],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}

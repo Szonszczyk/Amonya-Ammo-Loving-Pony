@@ -1,0 +1,17 @@
+{
+  "Heavy Duty": {
+    "Bullets": {
+      ".50 BMG M21": "127x99Q3"
+    }
+  },
+  "Railgun": {
+    "Bullets": {
+      ".50 BMG M33": "127x99Q3"
+    }
+  },
+  "Pro+": {
+    "Bullets": {
+      ".50 BMG M903 SLAP": "127x99Q5"
+    }
+  }
+}

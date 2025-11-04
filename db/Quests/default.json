@@ -1,0 +1,1814 @@
+{
+  "051ee65c31f3e922a3f237f1": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "56dff216d2720bbd668b4568"
+    ],
+    "Image": "00255-586690896.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "545x39Q1",
+    "QuestForStart": "777771d64c26ec98bcf53eb5"
+  },
+  "051ee65c31f3e922a3f237f2": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "56dff338d2720bbd668b4569",
+      "56dff421d2720b5f5a8b4567",
+      "56dff4ecd2720b5f5a8b4568"
+    ],
+    "Image": "00256-586690897.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "545x39Q2",
+    "QuestForStart": "051ee65c31f3e922a3f237f1"
+  },
+  "051ee65c31f3e922a3f237f3": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "56dff4a2d2720bbd668b456a",
+      "56dff0bed2720bb0668b4567",
+      "56dff3afd2720bba668b4567"
+    ],
+    "Image": "00260-586690901.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "545x39Q3",
+    "QuestForStart": "051ee65c31f3e922a3f237f2"
+  },
+  "051ee65c31f3e922a3f237f4": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "56dff2ced2720bb4668b4567",
+      "56dff061d2720bb5668b4567",
+      "5c0d5e4486f77478390952fe"
+    ],
+    "Image": "00263-586690904.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "545x39Q4",
+    "QuestForStart": "051ee65c31f3e922a3f237f3"
+  },
+  "051ee65c31f3e922a3f237f5": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "61962b617c6c7b169525f168"
+    ],
+    "Image": "00268-586690909.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "545x39Q5",
+    "QuestForStart": "051ee65c31f3e922a3f237f4"
+  },
+  "051ee65c31f3e922a3f237f6": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "56dfef82d2720bbd668b4567"
+    ],
+    "Image": "00271-586690912.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "545x39Q6",
+    "QuestForStart": "051ee65c31f3e922a3f237f5"
+  },
+  "051ee65c31f3e922a3f237f7": {
+    "ammoIDs": "545x39",
+    "Unlocks": [
+      "56dff026d2720bb8668b4567"
+    ],
+    "Image": "00274-586690915.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "545x39Q7",
+    "QuestForStart": "051ee65c31f3e922a3f237f6"
+  },
+  "051ee65c31f3e922a3f237f8": {
+    "ammoIDs": "545x39",
+    "Unlocks": [],
+    "Image": "00261-586690902.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "4",
+    "oldID": "545x39Q8",
+    "QuestForStart": "051ee65c31f3e922a3f237f7"
+  },
+  "1a60861efd008c9dd5a7e3b1": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "5c0d5ae286f7741e46554302"
+    ],
+    "Image": "00519-3518278214.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "556x45Q1",
+    "QuestForStart": "777771d64c26ec98bcf53eb5"
+  },
+  "1a60861efd008c9dd5a7e3b2": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "59e6927d86f77411da468256",
+      "59e6918f86f7746c9f75e849",
+      "59e68f6f86f7746c9f75e846"
+    ],
+    "Image": "00520-3518278215.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "556x45Q2",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b1"
+  },
+  "1a60861efd008c9dd5a7e3b3": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "59e6920f86f77411d82aa167"
+    ],
+    "Image": "00518-3518278213.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "556x45Q3",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b2"
+  },
+  "1a60861efd008c9dd5a7e3b4": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "54527a984bdc2d4e668b4567",
+      "60194943740c5d77f6705eea"
+    ],
+    "Image": "00517-3518278212.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "556x45Q4",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b3"
+  },
+  "1a60861efd008c9dd5a7e3b5": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "59e6906286f7746c9f75e847",
+      "54527ac44bdc2d36668b4567"
+    ],
+    "Image": "00502-3518278197.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "556x45Q5",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b4"
+  },
+  "1a60861efd008c9dd5a7e3b6": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "601949593ae8f707c4608daa"
+    ],
+    "Image": "00506-3518278201.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "556x45Q6",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b5"
+  },
+  "1a60861efd008c9dd5a7e3b7": {
+    "ammoIDs": "556x45",
+    "Unlocks": [
+      "59e690b686f7746c9f75e848"
+    ],
+    "Image": "00507-3518278202.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "556x45Q7",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b6"
+  },
+  "1a60861efd008c9dd5a7e3b8": {
+    "ammoIDs": "556x45",
+    "Unlocks": [],
+    "Image": "00509-3518278204.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "4",
+    "oldID": "556x45Q8",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b7"
+  },
+  "0e732f75f149e156db31ce41": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "59e4d3d286f774176a36250a"
+    ],
+    "Image": "01864-2574512352.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x39Q1",
+    "QuestForStart": "051ee65c31f3e922a3f237f2"
+  },
+  "0e732f75f149e156db31ce42": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "64b7af734b75259c590fa895",
+      "64b7af5a8532cf95ee0a0dbd"
+    ],
+    "Image": "01867-2574512355.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x39Q2",
+    "QuestForStart": "0e732f75f149e156db31ce41"
+  },
+  "0e732f75f149e156db31ce43": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "59e4d24686f7741776641ac7",
+      "59e4cf5286f7741778269d8a"
+    ],
+    "Image": "01870-2574512358.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x39Q3",
+    "QuestForStart": "0e732f75f149e156db31ce42"
+  },
+  "0e732f75f149e156db31ce44": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "5656d7c34bdc2d9d198b4587"
+    ],
+    "Image": "01873-2574512361.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x39Q4",
+    "QuestForStart": "0e732f75f149e156db31ce43"
+  },
+  "0e732f75f149e156db31ce45": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "64b7af434b75259c590fa893"
+    ],
+    "Image": "01852-2574512340.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "762x39Q5",
+    "QuestForStart": "0e732f75f149e156db31ce44"
+  },
+  "0e732f75f149e156db31ce46": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "601aa3d2b2bcb34913271e6d"
+    ],
+    "Image": "01854-2574512342.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "762x39Q6",
+    "QuestForStart": "0e732f75f149e156db31ce45"
+  },
+  "0e732f75f149e156db31ce47": {
+    "ammoIDs": "762x39",
+    "Unlocks": [
+      "59e0d99486f7744a32234762"
+    ],
+    "Image": "01856-2574512344.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "762x39Q7",
+    "QuestForStart": "0e732f75f149e156db31ce46"
+  },
+  "0e732f75f149e156db31ce48": {
+    "ammoIDs": "762x39",
+    "Unlocks": [],
+    "Image": "01862-2574512350.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "4",
+    "oldID": "762x39Q8",
+    "QuestForStart": "0e732f75f149e156db31ce47"
+  },
+  "1e943658f703736cf3614ce1": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "5e023e88277cce2b522ff2b1"
+    ],
+    "Image": "00114-609965109.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x51Q1",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b1"
+  },
+  "1e943658f703736cf3614ce2": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "5e023e6e34d52a55c3304f71"
+    ],
+    "Image": "00122-609965117.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x51Q2",
+    "QuestForStart": "1e943658f703736cf3614ce1"
+  },
+  "1e943658f703736cf3614ce3": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "5e023e53d4353e3302577c4c"
+    ],
+    "Image": "00117-609965112.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x51Q3",
+    "QuestForStart": "1e943658f703736cf3614ce2"
+  },
+  "1e943658f703736cf3614ce4": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "58dd3ad986f77403051cba8f"
+    ],
+    "Image": "00105-609965100.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x51Q4",
+    "QuestForStart": "1e943658f703736cf3614ce3"
+  },
+  "1e943658f703736cf3614ce5": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "5a608bf24f39f98ffc77720e"
+    ],
+    "Image": "00107-609965102.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "762x51Q5",
+    "QuestForStart": "1e943658f703736cf3614ce4"
+  },
+  "1e943658f703736cf3614ce6": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "5a6086ea4f39f99cd479502f"
+    ],
+    "Image": "00113-609965108.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "762x51Q6",
+    "QuestForStart": "1e943658f703736cf3614ce5"
+  },
+  "1e943658f703736cf3614ce7": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "5efb0c1bd79ff02a1f5e68d9"
+    ],
+    "Image": "00102-609965097.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "762x51Q7",
+    "QuestForStart": "1e943658f703736cf3614ce6"
+  },
+  "1e943658f703736cf3614ce8": {
+    "ammoIDs": "762x51",
+    "Unlocks": [
+      "6768c25aa7b238f14a08d3f6"
+    ],
+    "Image": "00103-609965098.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "762x51Q8",
+    "QuestForStart": "1e943658f703736cf3614ce7"
+  },
+  "500e4c08e6e90400d519d311": {
+    "ammoIDs": "300",
+    "Unlocks": [
+      "6196365d58ef8c428c287da1"
+    ],
+    "Image": "00891-3466532568.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "300Q1",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b2"
+  },
+  "500e4c08e6e90400d519d312": {
+    "ammoIDs": "300",
+    "Unlocks": [
+      "6196364158ef8c428c287d9f"
+    ],
+    "Image": "00897-3466532574.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "300Q2",
+    "QuestForStart": "500e4c08e6e90400d519d311"
+  },
+  "500e4c08e6e90400d519d313": {
+    "ammoIDs": "300",
+    "Unlocks": [
+      "5fbe3ffdf8b6a877a729ea82"
+    ],
+    "Image": "00876-3466532553.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "300Q3",
+    "QuestForStart": "500e4c08e6e90400d519d312"
+  },
+  "500e4c08e6e90400d519d314": {
+    "ammoIDs": "300",
+    "Unlocks": [
+      "619636be6db0f2477964e710"
+    ],
+    "Image": "00877-3466532554.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "300Q4",
+    "QuestForStart": "500e4c08e6e90400d519d313"
+  },
+  "500e4c08e6e90400d519d315": {
+    "ammoIDs": "300",
+    "Unlocks": [
+      "64b8725c4b75259c590fa899"
+    ],
+    "Image": "00879-3466532556.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "300Q5",
+    "QuestForStart": "500e4c08e6e90400d519d314"
+  },
+  "500e4c08e6e90400d519d316": {
+    "ammoIDs": "300",
+    "Unlocks": [
+      "5fd20ff893a8961fc660a954"
+    ],
+    "Image": "00885-3466532562.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "300Q6",
+    "QuestForStart": "500e4c08e6e90400d519d315"
+  },
+  "500e4c08e6e90400d519d317": {
+    "ammoIDs": "300",
+    "Unlocks": [],
+    "Image": "00886-3466532563.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "4",
+    "oldID": "300Q7",
+    "QuestForStart": "500e4c08e6e90400d519d316"
+  },
+  "4debd59a56f327416e1ab4b0": {
+    "ammoIDs": "68x51",
+    "Unlocks": [
+      "6529302b8c26af6326029fb7"
+    ],
+    "Image": "00332-3608139174.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "68x51Q1",
+    "QuestForStart": "1e943658f703736cf3614ce1"
+  },
+  "4debd59a56f327416e1ab4b1": {
+    "ammoIDs": "68x51",
+    "Unlocks": [
+      "6529243824cbe3c74a05e5c1"
+    ],
+    "Image": "00339-3608139181.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "68x51Q2",
+    "QuestForStart": "4debd59a56f327416e1ab4b0"
+  },
+  "4debd59a56f327416e1ab4b2": {
+    "ammoIDs": "68x51",
+    "Unlocks": [],
+    "Image": "00329-3608139171.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "68x51Q3",
+    "QuestForStart": "4debd59a56f327416e1ab4b1"
+  },
+  "4dc171676686e02795019721": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "64b8f7c241772715af0f9c3d"
+    ],
+    "Image": "00593-3551447565.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x54Q1",
+    "QuestForStart": "051ee65c31f3e922a3f237f1"
+  },
+  "4dc171676686e02795019722": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "64b8f7b5389d7ffd620ccba2",
+      "64b8f7968532cf95ee0a0dbf"
+    ],
+    "Image": "00594-3551447566.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x54Q2",
+    "QuestForStart": "4dc171676686e02795019721"
+  },
+  "4dc171676686e02795019723": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "5e023cf8186a883be655e54f",
+      "5887431f2459777e1612938f"
+    ],
+    "Image": "00596-3551447568.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x54Q3",
+    "QuestForStart": "4dc171676686e02795019722"
+  },
+  "4dc171676686e02795019724": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "59e77a2386f7742ee578960a"
+    ],
+    "Image": "00580-3551447552.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "762x54Q4",
+    "QuestForStart": "4dc171676686e02795019723"
+  },
+  "4dc171676686e02795019725": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "5e023d34e8a400319a28ed44"
+    ],
+    "Image": "00584-3551447556.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "762x54Q5",
+    "QuestForStart": "4dc171676686e02795019724"
+  },
+  "4dc171676686e02795019726": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "560d61e84bdc2da74d8b4571"
+    ],
+    "Image": "00585-3551447557.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "762x54Q6",
+    "QuestForStart": "4dc171676686e02795019725"
+  },
+  "4dc171676686e02795019727": {
+    "ammoIDs": "762x54",
+    "Unlocks": [
+      "5e023d48186a883be655e551"
+    ],
+    "Image": "00575-3551447547.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "762x54Q7",
+    "QuestForStart": "4dc171676686e02795019726"
+  },
+  "4dc171676686e02795019728": {
+    "ammoIDs": "762x54",
+    "Unlocks": [],
+    "Image": "00579-3551447551.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "4",
+    "oldID": "762x54Q8",
+    "QuestForStart": "4dc171676686e02795019727"
+  },
+  "5e90ffc5978ae91110332dd1": {
+    "ammoIDs": "338",
+    "Unlocks": [
+      "5fc382b6d6fa9c00c571bbc3"
+    ],
+    "Image": "00034-1318525205.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "338Q1",
+    "QuestForStart": "1e943658f703736cf3614ce2"
+  },
+  "5e90ffc5978ae91110332dd2": {
+    "ammoIDs": "338",
+    "Unlocks": [
+      "5fc382c1016cce60e8341b20"
+    ],
+    "Image": "00042-1318525213.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "338Q2",
+    "QuestForStart": "5e90ffc5978ae91110332dd1"
+  },
+  "5e90ffc5978ae91110332dd3": {
+    "ammoIDs": "338",
+    "Unlocks": [
+      "5fc275cf85fd526b824a571a"
+    ],
+    "Image": "00043-1318525214.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "338Q3",
+    "QuestForStart": "5e90ffc5978ae91110332dd2"
+  },
+  "5e90ffc5978ae91110332dd4": {
+    "ammoIDs": "338",
+    "Unlocks": [
+      "5fc382a9d724d907e2077dab"
+    ],
+    "Image": "00044-1318525215.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "338Q4",
+    "QuestForStart": "5e90ffc5978ae91110332dd3"
+  },
+  "5e90ffc5978ae91110332dd5": {
+    "ammoIDs": "338",
+    "Unlocks": [],
+    "Image": "00029-1318525200.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "338Q5",
+    "QuestForStart": "5e90ffc5978ae91110332dd4"
+  },
+  "677a52924422872870d30c31": {
+    "ammoIDs": "366",
+    "Unlocks": [
+      "59e6658b86f77411d949b250"
+    ],
+    "Image": "01550-1800592857.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "366Q1",
+    "QuestForStart": "051ee65c31f3e922a3f237f1"
+  },
+  "677a52924422872870d30c32": {
+    "ammoIDs": "366",
+    "Unlocks": [
+      "59e6542b86f77411dc52a77a"
+    ],
+    "Image": "01552-1800592859.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "366Q2",
+    "QuestForStart": "677a52924422872870d30c31"
+  },
+  "677a52924422872870d30c33": {
+    "ammoIDs": "366",
+    "Unlocks": [
+      "59e655cb86f77411dc52a77b"
+    ],
+    "Image": "01554-1800592861.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "366Q3",
+    "QuestForStart": "677a52924422872870d30c32"
+  },
+  "677a52924422872870d30c34": {
+    "ammoIDs": "366",
+    "Unlocks": [
+      "5f0596629e22f464da6bbdd9"
+    ],
+    "Image": "01566-1800592873.png",
+    "Difficulty": "6",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "366Q4",
+    "QuestForStart": "677a52924422872870d30c33"
+  },
+  "677a52924422872870d30c35": {
+    "ammoIDs": "366",
+    "Unlocks": [],
+    "Image": "01555-1800592862.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "366Q5",
+    "QuestForStart": "677a52924422872870d30c34"
+  },
+  "6b5b769d2841b27490390e91": {
+    "ammoIDs": "127x55",
+    "Unlocks": [
+      "5cadf6e5ae921500113bb973"
+    ],
+    "Image": "00550-4237505941.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "127x55Q1",
+    "QuestForStart": "0e732f75f149e156db31ce41"
+  },
+  "6b5b769d2841b27490390e92": {
+    "ammoIDs": "127x55",
+    "Unlocks": [
+      "5cadf6ddae9215051e1c23b2"
+    ],
+    "Image": "00554-4237505945.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "127x55Q2",
+    "QuestForStart": "6b5b769d2841b27490390e91"
+  },
+  "6b5b769d2841b27490390e93": {
+    "ammoIDs": "127x55",
+    "Unlocks": [
+      "5cadf6eeae921500134b2799"
+    ],
+    "Image": "00557-4237505948.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "127x55Q3",
+    "QuestForStart": "6b5b769d2841b27490390e92"
+  },
+  "6b5b769d2841b27490390e94": {
+    "ammoIDs": "127x55",
+    "Unlocks": [],
+    "Image": "00570-4237505961.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "127x55Q4",
+    "QuestForStart": "6b5b769d2841b27490390e93"
+  },
+  "8de2bebd50f2924237c4c3c1": {
+    "ammoIDs": "9x39",
+    "Unlocks": [
+      "6576f96220d53a5b8f3e395e"
+    ],
+    "Image": "01929-757123728.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "9x39Q1",
+    "QuestForStart": "0e732f75f149e156db31ce42"
+  },
+  "8de2bebd50f2924237c4c3c2": {
+    "ammoIDs": "9x39",
+    "Unlocks": [
+      "57a0dfb82459774d3078b56c"
+    ],
+    "Image": "01927-757123726.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "9x39Q2",
+    "QuestForStart": "8de2bebd50f2924237c4c3c1"
+  },
+  "8de2bebd50f2924237c4c3c3": {
+    "ammoIDs": "9x39",
+    "Unlocks": [
+      "5c0d668f86f7747ccb7f13b2"
+    ],
+    "Image": "01937-757123736.png",
+    "Difficulty": "3",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "9x39Q3",
+    "QuestForStart": "8de2bebd50f2924237c4c3c2"
+  },
+  "8de2bebd50f2924237c4c3c4": {
+    "ammoIDs": "9x39",
+    "Unlocks": [
+      "61962d879bb3d20b0946d385"
+    ],
+    "Image": "01939-757123738.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "9x39Q4",
+    "QuestForStart": "8de2bebd50f2924237c4c3c3"
+  },
+  "8de2bebd50f2924237c4c3c5": {
+    "ammoIDs": "9x39",
+    "Unlocks": [
+      "57a0e5022459774d1673f889"
+    ],
+    "Image": "01943-757123742.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "9x39Q5",
+    "QuestForStart": "8de2bebd50f2924237c4c3c4"
+  },
+  "8de2bebd50f2924237c4c3c6": {
+    "ammoIDs": "9x39",
+    "Unlocks": [
+      "5c0d688c86f77413ae3407b2"
+    ],
+    "Image": "01944-757123743.png",
+    "Difficulty": "7",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "9x39Q6",
+    "QuestForStart": "8de2bebd50f2924237c4c3c5"
+  },
+  "8de2bebd50f2924237c4c3c7": {
+    "ammoIDs": "9x39",
+    "Unlocks": [],
+    "Image": "01930-757123729.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "4",
+    "oldID": "9x39Q7",
+    "QuestForStart": "8de2bebd50f2924237c4c3c6"
+  },
+  "6d8609490543766e328c7f71": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e68dea4b9361bcc29e659",
+      "5c0d591486f7744c505b416f"
+    ],
+    "Image": "00200-4218199268.png",
+    "Difficulty": "1",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "1270Q1",
+    "QuestForStart": "777771d64c26ec98bcf53eb5"
+  },
+  "6d8609490543766e328c7f72": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e6869a4b9361c140bcfde",
+      "5d6e6891a4b9361bd473feea",
+      "5d6e689ca4b9361bc8618956",
+      "5d6e67fba4b9361bc73bc779"
+    ],
+    "Image": "00205-4218199273.png",
+    "Difficulty": "2",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "1270Q2",
+    "QuestForStart": "6d8609490543766e328c7f71"
+  },
+  "6d8609490543766e328c7f73": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e68e6a4b9361c140bcfe0",
+      "58820d1224597753c90aeb13",
+      "560d5e524bdc2d25448b4571",
+      "5d6e68d1a4b93622fe60e845"
+    ],
+    "Image": "00219-4218199287.png",
+    "Difficulty": "3",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "1270Q3",
+    "QuestForStart": "6d8609490543766e328c7f72"
+  },
+  "6d8609490543766e328c7f74": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e68b3a4b9361bca7e50b5",
+      "5d6e68c4a4b9361b93413f79",
+      "5d6e6772a4b936088465b17c"
+    ],
+    "Image": "00327-4172635439.png",
+    "Difficulty": "4",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "1270Q4",
+    "QuestForStart": "6d8609490543766e328c7f73"
+  },
+  "6d8609490543766e328c7f75": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e6806a4b936088465b17e",
+      "64b8ee384b75259c590fa89b"
+    ],
+    "Image": "00321-3071667400.png",
+    "Difficulty": "5",
+    "Category": "Shotgun",
+    "TraderNeeded": "2",
+    "oldID": "1270Q5",
+    "QuestForStart": "6d8609490543766e328c7f74"
+  },
+  "6d8609490543766e328c7f76": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e68a8a4b9360b6c0d54e2"
+    ],
+    "Image": "00130-4198749234.png",
+    "Difficulty": "6",
+    "Category": "Shotgun",
+    "TraderNeeded": "2",
+    "oldID": "1270Q6",
+    "QuestForStart": "6d8609490543766e328c7f75"
+  },
+  "6d8609490543766e328c7f77": {
+    "ammoIDs": "1270",
+    "Unlocks": [
+      "5d6e6911a4b9361bd5780d52"
+    ],
+    "Image": "00201-4218199269.png",
+    "Difficulty": "7",
+    "Category": "Shotgun",
+    "TraderNeeded": "3",
+    "oldID": "1270Q7",
+    "QuestForStart": "6d8609490543766e328c7f76"
+  },
+  "6d8609490543766e328c7f78": {
+    "ammoIDs": "1270",
+    "Unlocks": [],
+    "Image": "00353-2678962586.png",
+    "Difficulty": "8",
+    "Category": "Shotgun",
+    "TraderNeeded": "4",
+    "oldID": "1270Q8",
+    "QuestForStart": "6d8609490543766e328c7f77"
+  },
+  "7a1861975e83dbf08f6a1541": {
+    "ammoIDs": "2070",
+    "Unlocks": [
+      "5d6e695fa4b936359b35d852",
+      "5d6e6a5fa4b93614ec501745"
+    ],
+    "Image": "00444-426180963.png",
+    "Difficulty": "1",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "2070Q1",
+    "QuestForStart": "6d8609490543766e328c7f71"
+  },
+  "7a1861975e83dbf08f6a1542": {
+    "ammoIDs": "2070",
+    "Unlocks": [
+      "5d6e69b9a4b9361bc8618958",
+      "5d6e6a53a4b9361bd473feec"
+    ],
+    "Image": "00401-536402848.png",
+    "Difficulty": "2",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "2070Q2",
+    "QuestForStart": "7a1861975e83dbf08f6a1541"
+  },
+  "7a1861975e83dbf08f6a1543": {
+    "ammoIDs": "2070",
+    "Unlocks": [
+      "5a38ebd9c4a282000d722a5b",
+      "5d6e6a05a4b93618084f58d0"
+    ],
+    "Image": "00600-649531213.png",
+    "Difficulty": "3",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "2070Q3",
+    "QuestForStart": "7a1861975e83dbf08f6a1542"
+  },
+  "7a1861975e83dbf08f6a1544": {
+    "ammoIDs": "2070",
+    "Unlocks": [
+      "5d6e69c7a4b9360b6c0d54e4",
+      "5d6e6a42a4b9364f07165f52"
+    ],
+    "Image": "00605-649531218.png",
+    "Difficulty": "4",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "2070Q4",
+    "QuestForStart": "7a1861975e83dbf08f6a1543"
+  },
+  "7a1861975e83dbf08f6a1545": {
+    "ammoIDs": "2070",
+    "Unlocks": [
+      "6601380580e77cfd080e3418",
+      "660137ef76c1b56143052be8"
+    ],
+    "Image": "00631-560642134.png",
+    "Difficulty": "5",
+    "Category": "Shotgun",
+    "TraderNeeded": "2",
+    "oldID": "2070Q5",
+    "QuestForStart": "7a1861975e83dbf08f6a1544"
+  },
+  "7a1861975e83dbf08f6a1546": {
+    "ammoIDs": "2070",
+    "Unlocks": [
+      "660137d8481cc6907a0c5cda"
+    ],
+    "Image": "00033-1161979771.png",
+    "Difficulty": "7",
+    "Category": "Shotgun",
+    "TraderNeeded": "3",
+    "oldID": "2070Q6",
+    "QuestForStart": "7a1861975e83dbf08f6a1545"
+  },
+  "7a1861975e83dbf08f6a1547": {
+    "ammoIDs": "2070",
+    "Unlocks": [],
+    "Image": "00034-1161979772.png",
+    "Difficulty": "8",
+    "Category": "Shotgun",
+    "TraderNeeded": "4",
+    "oldID": "2070Q7",
+    "QuestForStart": "7a1861975e83dbf08f6a1546"
+  },
+  "7dd4e48a7e42f089bf73f3e1": {
+    "ammoIDs": "23x75",
+    "Unlocks": [
+      "5e85a9f4add9fe03027d9bf1",
+      "5e85a9a6eacf8c039e4e2ac1",
+      "5f647f31b6238e5dd066e196"
+    ],
+    "Image": "00229-2227065991.png",
+    "Difficulty": "2",
+    "Category": "Shotgun",
+    "TraderNeeded": "1",
+    "oldID": "23x75Q1",
+    "QuestForStart": "6d8609490543766e328c7f72"
+  },
+  "7dd4e48a7e42f089bf73f3e2": {
+    "ammoIDs": "23x75",
+    "Unlocks": [
+      "5e85aa1a988a8701445df1f5"
+    ],
+    "Image": "00341-2663591410.png",
+    "Difficulty": "7",
+    "Category": "Shotgun",
+    "TraderNeeded": "2",
+    "oldID": "23x75Q2",
+    "QuestForStart": "7dd4e48a7e42f089bf73f3e1"
+  },
+  "7dd4e48a7e42f089bf73f3e3": {
+    "ammoIDs": "23x75",
+    "Unlocks": [],
+    "Image": "00309-764065167.png",
+    "Difficulty": "8",
+    "Category": "Shotgun",
+    "TraderNeeded": "3",
+    "oldID": "23x75Q3",
+    "QuestForStart": "7dd4e48a7e42f089bf73f3e2"
+  },
+  "88778db006e3dad5da034b11": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "58864a4f2459770fcc257101",
+      "5c3df7d588a4501f290594e5"
+    ],
+    "Image": "00090-1315899259.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x19Q1",
+    "QuestForStart": "777771d64c26ec98bcf53eb5"
+  },
+  "88778db006e3dad5da034b12": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "5efb0e16aeb21837e749c7ff"
+    ],
+    "Image": "00056-3223564073.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x19Q2",
+    "QuestForStart": "88778db006e3dad5da034b11"
+  },
+  "88778db006e3dad5da034b13": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "5a3c16fe86f77452b62de32a"
+    ],
+    "Image": "00064-3223564081.png",
+    "Difficulty": "3",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x19Q3",
+    "QuestForStart": "88778db006e3dad5da034b12"
+  },
+  "88778db006e3dad5da034b14": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "64b7bbb74b75259c590fa897",
+      "56d59d3ad2720bdb418b4577"
+    ],
+    "Image": "00058-3223564075.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x19Q4",
+    "QuestForStart": "88778db006e3dad5da034b13"
+  },
+  "88778db006e3dad5da034b15": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "5c0d56a986f774449d5de529"
+    ],
+    "Image": "00095-1315899264.png",
+    "Difficulty": "5",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "9x19Q5",
+    "QuestForStart": "88778db006e3dad5da034b14"
+  },
+  "88778db006e3dad5da034b16": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "5efb0da7a29a85116f6ea05f"
+    ],
+    "Image": "00078-1315899247.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "9x19Q6",
+    "QuestForStart": "88778db006e3dad5da034b15"
+  },
+  "88778db006e3dad5da034b17": {
+    "ammoIDs": "9x19",
+    "Unlocks": [
+      "5c925fa22e221601da359b7b"
+    ],
+    "Image": "00061-3223564078.png",
+    "Difficulty": "7",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "9x19Q7",
+    "QuestForStart": "88778db006e3dad5da034b16"
+  },
+  "88778db006e3dad5da034b18": {
+    "ammoIDs": "9x19",
+    "Unlocks": [],
+    "Image": "00070-3223564087.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "4",
+    "oldID": "9x19Q8",
+    "QuestForStart": "88778db006e3dad5da034b17"
+  },
+  "95a0dc53b8df5422c9c36861": {
+    "ammoIDs": "762x25",
+    "Unlocks": [
+      "573602322459776445391df1",
+      "573601b42459776410737435"
+    ],
+    "Image": "01432-3548479046.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "762x25Q1",
+    "QuestForStart": "777771d64c26ec98bcf53eb5"
+  },
+  "95a0dc53b8df5422c9c36862": {
+    "ammoIDs": "762x25",
+    "Unlocks": [
+      "5735ff5c245977640e39ba7e",
+      "5735fdcd2459776445391d61",
+      "5736026a245977644601dc61"
+    ],
+    "Image": "01431-3548479045.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "762x25Q2",
+    "QuestForStart": "95a0dc53b8df5422c9c36861"
+  },
+  "95a0dc53b8df5422c9c36863": {
+    "ammoIDs": "762x25",
+    "Unlocks": [
+      "573603c924597764442bd9cb"
+    ],
+    "Image": "01438-3548479052.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "762x25Q3",
+    "QuestForStart": "95a0dc53b8df5422c9c36862"
+  },
+  "95a0dc53b8df5422c9c36864": {
+    "ammoIDs": "762x25",
+    "Unlocks": [
+      "573603562459776430731618"
+    ],
+    "Image": "01439-3548479053.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "762x25Q4",
+    "QuestForStart": "95a0dc53b8df5422c9c36863"
+  },
+  "95a0dc53b8df5422c9c36865": {
+    "ammoIDs": "762x25",
+    "Unlocks": [],
+    "Image": "01440-3548479054.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "762x25Q5",
+    "QuestForStart": "95a0dc53b8df5422c9c36864"
+  },
+  "a58938b1956a8f1bd48297c1": {
+    "ammoIDs": "9x18",
+    "Unlocks": [
+      "5737218f245977612125ba51",
+      "57372140245977611f70ee91",
+      "5737207f24597760ff7b25f2"
+    ],
+    "Image": "01189-1671545560.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x18Q1",
+    "QuestForStart": "88778db006e3dad5da034b11"
+  },
+  "a58938b1956a8f1bd48297c2": {
+    "ammoIDs": "9x18",
+    "Unlocks": [
+      "573719762459775a626ccbc1",
+      "57371f8d24597761006c6a81",
+      "57371eb62459776125652ac1"
+    ],
+    "Image": "01201-3528676248.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x18Q2",
+    "QuestForStart": "a58938b1956a8f1bd48297c1"
+  },
+  "a58938b1956a8f1bd48297c3": {
+    "ammoIDs": "9x18",
+    "Unlocks": [
+      "57371f2b24597761224311f1",
+      "57371b192459775a9f58a5e0",
+      "57371e4124597760ff7b25f1"
+    ],
+    "Image": "01184-1671545555.png",
+    "Difficulty": "3",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x18Q3",
+    "QuestForStart": "a58938b1956a8f1bd48297c2"
+  },
+  "a58938b1956a8f1bd48297c4": {
+    "ammoIDs": "9x18",
+    "Unlocks": [
+      "5737201124597760fc4431f1",
+      "573720e02459776143012541",
+      "573718ba2459775a75491131"
+    ],
+    "Image": "01185-1671545556.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x18Q4",
+    "QuestForStart": "a58938b1956a8f1bd48297c3"
+  },
+  "a58938b1956a8f1bd48297c5": {
+    "ammoIDs": "9x18",
+    "Unlocks": [
+      "573719df2459775a626ccbc2"
+    ],
+    "Image": "01211-3528676258.png",
+    "Difficulty": "5",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "9x18Q5",
+    "QuestForStart": "a58938b1956a8f1bd48297c4"
+  },
+  "a58938b1956a8f1bd48297c6": {
+    "ammoIDs": "9x18",
+    "Unlocks": [
+      "57371aab2459775a77142f22"
+    ],
+    "Image": "01213-3528676260.png",
+    "Difficulty": "7",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "9x18Q6",
+    "QuestForStart": "a58938b1956a8f1bd48297c5"
+  },
+  "a58938b1956a8f1bd48297c7": {
+    "ammoIDs": "9x18",
+    "Unlocks": [],
+    "Image": "01224-3528676271.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "4",
+    "oldID": "9x18Q7",
+    "QuestForStart": "a58938b1956a8f1bd48297c6"
+  },
+  "a6c039c28e273a8336f97101": {
+    "ammoIDs": "9x21",
+    "Unlocks": [
+      "5a26ac06c4a282000c5a90a8"
+    ],
+    "Image": "01525-2807275375.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x21Q1",
+    "QuestForStart": "88778db006e3dad5da034b12"
+  },
+  "a6c039c28e273a8336f97102": {
+    "ammoIDs": "9x21",
+    "Unlocks": [
+      "5a26abfac4a28232980eabff"
+    ],
+    "Image": "01536-2807275386.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x21Q2",
+    "QuestForStart": "a6c039c28e273a8336f97101"
+  },
+  "a6c039c28e273a8336f97103": {
+    "ammoIDs": "9x21",
+    "Unlocks": [
+      "5a269f97c4a282000b151807"
+    ],
+    "Image": "01533-2807275383.png",
+    "Difficulty": "3",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x21Q3",
+    "QuestForStart": "a6c039c28e273a8336f97102"
+  },
+  "a6c039c28e273a8336f97104": {
+    "ammoIDs": "9x21",
+    "Unlocks": [
+      "6576f93989f0062e741ba952"
+    ],
+    "Image": "01531-2807275381.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "9x21Q4",
+    "QuestForStart": "a6c039c28e273a8336f97103"
+  },
+  "a6c039c28e273a8336f97105": {
+    "ammoIDs": "9x21",
+    "Unlocks": [
+      "5a26ac0ec4a28200741e1e18"
+    ],
+    "Image": "01527-2807275377.png",
+    "Difficulty": "5",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "9x21Q5",
+    "QuestForStart": "a6c039c28e273a8336f97104"
+  },
+  "a6c039c28e273a8336f97106": {
+    "ammoIDs": "9x21",
+    "Unlocks": [
+      "6576f4708ca9c4381d16cd9d"
+    ],
+    "Image": "01546-2807275396.png",
+    "Difficulty": "7",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "9x21Q6",
+    "QuestForStart": "a6c039c28e273a8336f97105"
+  },
+  "a6c039c28e273a8336f97107": {
+    "ammoIDs": "9x21",
+    "Unlocks": [],
+    "Image": "01532-2807275382.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "4",
+    "oldID": "9x21Q7",
+    "QuestForStart": "a6c039c28e273a8336f97106"
+  },
+  "bcc61b5f37a4e0ea2d558051": {
+    "ammoIDs": "357",
+    "Unlocks": [
+      "62330c40bdd19b369e1e53d1"
+    ],
+    "Image": "01012-2857328607.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "357Q1",
+    "QuestForStart": "88778db006e3dad5da034b14"
+  },
+  "bcc61b5f37a4e0ea2d558052": {
+    "ammoIDs": "357",
+    "Unlocks": [
+      "62330bfadc5883093563729b"
+    ],
+    "Image": "01018-2857328613.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "357Q2",
+    "QuestForStart": "bcc61b5f37a4e0ea2d558051"
+  },
+  "bcc61b5f37a4e0ea2d558053": {
+    "ammoIDs": "357",
+    "Unlocks": [
+      "62330c18744e5e31df12f516"
+    ],
+    "Image": "01003-2857328598.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "357Q3",
+    "QuestForStart": "bcc61b5f37a4e0ea2d558052"
+  },
+  "bcc61b5f37a4e0ea2d558054": {
+    "ammoIDs": "357",
+    "Unlocks": [
+      "62330b3ed4dc74626d570b95"
+    ],
+    "Image": "01013-2857328608.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "357Q4",
+    "QuestForStart": "bcc61b5f37a4e0ea2d558053"
+  },
+  "bcc61b5f37a4e0ea2d558055": {
+    "ammoIDs": "357",
+    "Unlocks": [],
+    "Image": "01023-2857328618.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "357Q5",
+    "QuestForStart": "bcc61b5f37a4e0ea2d558054"
+  },
+  "c62ba4b587f242f34573c9c1": {
+    "ammoIDs": "45ACP",
+    "Unlocks": [
+      "5efb0d4f4bc50b58e81710f3"
+    ],
+    "Image": "01152-1522529700.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "45ACPQ1",
+    "QuestForStart": "ce8b8fe614844d0f78867941"
+  },
+  "c62ba4b587f242f34573c9c2": {
+    "ammoIDs": "45ACP",
+    "Unlocks": [
+      "5e81f423763d9f754677bf2e"
+    ],
+    "Image": "01154-1522529702.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "45ACPQ2",
+    "QuestForStart": "c62ba4b587f242f34573c9c1"
+  },
+  "c62ba4b587f242f34573c9c3": {
+    "ammoIDs": "45ACP",
+    "Unlocks": [
+      "5efb0fc6aeb21837e749c801"
+    ],
+    "Image": "01159-1522529707.png",
+    "Difficulty": "3",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "45ACPQ3",
+    "QuestForStart": "c62ba4b587f242f34573c9c2"
+  },
+  "c62ba4b587f242f34573c9c4": {
+    "ammoIDs": "45ACP",
+    "Unlocks": [
+      "5ea2a8e200685063ec28c05a"
+    ],
+    "Image": "01161-1522529709.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "45ACPQ4",
+    "QuestForStart": "c62ba4b587f242f34573c9c3"
+  },
+  "c62ba4b587f242f34573c9c5": {
+    "ammoIDs": "45ACP",
+    "Unlocks": [
+      "5efb0cabfb3e451d70735af5"
+    ],
+    "Image": "01164-1522529712.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "45ACPQ5",
+    "QuestForStart": "c62ba4b587f242f34573c9c4"
+  },
+  "c62ba4b587f242f34573c9c6": {
+    "ammoIDs": "45ACP",
+    "Unlocks": [],
+    "Image": "01172-1522529720.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "45ACPQ6",
+    "QuestForStart": "c62ba4b587f242f34573c9c5"
+  },
+  "ce8b8fe614844d0f78867941": {
+    "ammoIDs": "46x30",
+    "Unlocks": [
+      "5ba26812d4351e003201fef1"
+    ],
+    "Image": "00791-3136921705.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "46x30Q1",
+    "QuestForStart": "88778db006e3dad5da034b12"
+  },
+  "ce8b8fe614844d0f78867942": {
+    "ammoIDs": "46x30",
+    "Unlocks": [
+      "5ba26844d4351e00334c9475"
+    ],
+    "Image": "00785-3136921699.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "46x30Q2",
+    "QuestForStart": "ce8b8fe614844d0f78867941"
+  },
+  "ce8b8fe614844d0f78867943": {
+    "ammoIDs": "46x30",
+    "Unlocks": [
+      "64b6979341772715af0f9c39"
+    ],
+    "Image": "00780-3136921694.png",
+    "Difficulty": "3",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "46x30Q3",
+    "QuestForStart": "ce8b8fe614844d0f78867942"
+  },
+  "ce8b8fe614844d0f78867944": {
+    "ammoIDs": "46x30",
+    "Unlocks": [
+      "5ba2678ad4351e44f824b344"
+    ],
+    "Image": "00786-3136921700.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "46x30Q4",
+    "QuestForStart": "ce8b8fe614844d0f78867943"
+  },
+  "ce8b8fe614844d0f78867945": {
+    "ammoIDs": "46x30",
+    "Unlocks": [
+      "5ba26835d4351e0035628ff5"
+    ],
+    "Image": "00793-3136921707.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "46x30Q5",
+    "QuestForStart": "ce8b8fe614844d0f78867944"
+  },
+  "ce8b8fe614844d0f78867946": {
+    "ammoIDs": "46x30",
+    "Unlocks": [],
+    "Image": "00799-3136921713.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "46x30Q6",
+    "QuestForStart": "ce8b8fe614844d0f78867945"
+  },
+  "d012f0400811bacdc7de1351": {
+    "ammoIDs": "57x28",
+    "Unlocks": [
+      "5cc86840d7f00c002412c56c",
+      "5cc80f79e4a949033c7343b2",
+      "5cc80f67e4a949035e43bbba"
+    ],
+    "Image": "01391-125411635.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "57x28Q1",
+    "QuestForStart": "88778db006e3dad5da034b13"
+  },
+  "d012f0400811bacdc7de1352": {
+    "ammoIDs": "57x28",
+    "Unlocks": [
+      "5cc86832d7f00c000d3a6e6c"
+    ],
+    "Image": "01393-125411637.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "57x28Q2",
+    "QuestForStart": "d012f0400811bacdc7de1351"
+  },
+  "d012f0400811bacdc7de1353": {
+    "ammoIDs": "57x28",
+    "Unlocks": [
+      "5cc80f8fe4a949033b0224a2"
+    ],
+    "Image": "01395-125411639.png",
+    "Difficulty": "3",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "57x28Q3",
+    "QuestForStart": "d012f0400811bacdc7de1352"
+  },
+  "d012f0400811bacdc7de1354": {
+    "ammoIDs": "57x28",
+    "Unlocks": [
+      "5cc80f53e4a949000e1ea4f8"
+    ],
+    "Image": "01383-125411627.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "57x28Q4",
+    "QuestForStart": "d012f0400811bacdc7de1353"
+  },
+  "d012f0400811bacdc7de1355": {
+    "ammoIDs": "57x28",
+    "Unlocks": [
+      "5cc80f38e4a949001152b560"
+    ],
+    "Image": "01384-125411628.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "57x28Q5",
+    "QuestForStart": "d012f0400811bacdc7de1354"
+  },
+  "d012f0400811bacdc7de1356": {
+    "ammoIDs": "57x28",
+    "Unlocks": [],
+    "Image": "01389-125411633.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "57x28Q6",
+    "QuestForStart": "d012f0400811bacdc7de1355"
+  },
+  "d5fa07ee26ce8d666cc5db31": {
+    "ammoIDs": "50AE",
+    "Unlocks": [
+      "66a0d1c87d0d369e270bb9de"
+    ],
+    "Image": "00036-1161979774.png",
+    "Difficulty": "1",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "50AEQ1",
+    "QuestForStart": "88778db006e3dad5da034b13"
+  },
+  "d5fa07ee26ce8d666cc5db32": {
+    "ammoIDs": "50AE",
+    "Unlocks": [
+      "66a0d1f88486c69fce00fdf6"
+    ],
+    "Image": "00236-3972040156.png",
+    "Difficulty": "2",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "50AEQ2",
+    "QuestForStart": "d5fa07ee26ce8d666cc5db31"
+  },
+  "d5fa07ee26ce8d666cc5db33": {
+    "ammoIDs": "50AE",
+    "Unlocks": [
+      "66a0d1e0ed648d72fe064d06"
+    ],
+    "Image": "00251-2051893853.png",
+    "Difficulty": "4",
+    "Category": "Pistol",
+    "TraderNeeded": "1",
+    "oldID": "50AEQ3",
+    "QuestForStart": "d5fa07ee26ce8d666cc5db32"
+  },
+  "d5fa07ee26ce8d666cc5db34": {
+    "ammoIDs": "50AE",
+    "Unlocks": [
+      "668fe62ac62660a5d8071446"
+    ],
+    "Image": "00589-4215091427.png",
+    "Difficulty": "6",
+    "Category": "Pistol",
+    "TraderNeeded": "2",
+    "oldID": "50AEQ4",
+    "QuestForStart": "d5fa07ee26ce8d666cc5db33"
+  },
+  "d5fa07ee26ce8d666cc5db35": {
+    "ammoIDs": "50AE",
+    "Unlocks": [],
+    "Image": "00606-649531219.png",
+    "Difficulty": "8",
+    "Category": "Pistol",
+    "TraderNeeded": "3",
+    "oldID": "50AEQ5",
+    "QuestForStart": "d5fa07ee26ce8d666cc5db34"
+  },
+  "d1bc1dd166e49ce646dbc9e1": {
+    "ammoIDs": "40x46",
+    "Unlocks": [
+      "5ede475b549eed7c6d5c18fb"
+    ],
+    "Image": "01406-3647297114.png",
+    "Difficulty": "G1.1",
+    "Category": "Grenade",
+    "TraderNeeded": "2",
+    "oldID": "40x46Q1",
+    "QuestForStart": "777771d64c26ec98bcf53eb5"
+  },
+  "d1bc1dd166e49ce646dbc9e2": {
+    "ammoIDs": "40x46",
+    "Unlocks": [
+      "5ede475339ee016e8c534742"
+    ],
+    "Image": "01405-3647297113.png",
+    "Difficulty": "G1.2",
+    "Category": "Grenade",
+    "TraderNeeded": "2",
+    "oldID": "40x46Q2",
+    "QuestForStart": "d1bc1dd166e49ce646dbc9e1"
+  },
+  "d1bc1dd166e49ce646dbc9e3": {
+    "ammoIDs": "40x46",
+    "Unlocks": [
+      "5ede474b0c226a66f5402622"
+    ],
+    "Image": "01408-3647297116.png",
+    "Difficulty": "G1.3",
+    "Category": "Grenade",
+    "TraderNeeded": "2",
+    "oldID": "40x46Q3",
+    "QuestForStart": "d1bc1dd166e49ce646dbc9e2"
+  },
+  "d1bc1dd166e49ce646dbc9e4": {
+    "ammoIDs": "40x46",
+    "Unlocks": [
+      "5ede4739e0350d05467f73e8"
+    ],
+    "Image": "01411-3647297119.png",
+    "Difficulty": "G1.4",
+    "Category": "Grenade",
+    "TraderNeeded": "2",
+    "oldID": "40x46Q4",
+    "QuestForStart": "d1bc1dd166e49ce646dbc9e3"
+  },
+  "d1bc1dd166e49ce646dbc9e5": {
+    "ammoIDs": "40x46",
+    "Unlocks": [
+      "5f0c892565703e5c461894e9"
+    ],
+    "Image": "01412-3647297120.png",
+    "Difficulty": "G1.5",
+    "Category": "Grenade",
+    "TraderNeeded": "2",
+    "oldID": "40x46Q5",
+    "QuestForStart": "d1bc1dd166e49ce646dbc9e4"
+  },
+  "d1bc1dd166e49ce646dbc9e6": {
+    "ammoIDs": "40x46",
+    "Unlocks": [
+      "5ede47405b097655935d7d16"
+    ],
+    "Image": "01414-3647297122.png",
+    "Difficulty": "G1.6",
+    "Category": "Grenade",
+    "TraderNeeded": "2",
+    "oldID": "40x46Q6",
+    "QuestForStart": "d1bc1dd166e49ce646dbc9e5"
+  },
+  "d1bc1dd166e49ce646dbc9e7": {
+    "ammoIDs": "40x46",
+    "Unlocks": [],
+    "Image": "01422-3647297130.png",
+    "Difficulty": "8",
+    "Category": "Grenade",
+    "TraderNeeded": "4",
+    "oldID": "40x46Q7",
+    "QuestForStart": "d1bc1dd166e49ce646dbc9e6"
+  }
+}

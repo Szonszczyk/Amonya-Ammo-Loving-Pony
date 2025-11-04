@@ -1,0 +1,65 @@
+{
+  "531261f500addbddc3e10621": {
+    "ammoIDs": "127x99",
+    "Unlocks": [
+      "686e90abd63bee9a05dcf5db"
+    ],
+    "Image": "00108-4090970860.png",
+    "Difficulty": "1",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "127x99Q1",
+    "QuestForStart": "1a60861efd008c9dd5a7e3b3",
+    "fromMod": "AK50"
+  },
+  "531261f500addbddc3e10622": {
+    "ammoIDs": "127x99",
+    "Unlocks": [
+      "686e926498b323bfbbe1fc7c"
+    ],
+    "Image": "00102-605995933.png",
+    "Difficulty": "2",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "127x99Q2",
+    "QuestForStart": "531261f500addbddc3e10621",
+    "fromMod": "AK50"
+  },
+  "531261f500addbddc3e10623": {
+    "ammoIDs": "127x99",
+    "Unlocks": [
+      "686e93d861bcbeca0b805201"
+    ],
+    "Image": "00106-4090970858.png",
+    "Difficulty": "4",
+    "Category": "Assault",
+    "TraderNeeded": "1",
+    "oldID": "127x99Q3",
+    "QuestForStart": "531261f500addbddc3e10622",
+    "fromMod": "AK50"
+  },
+  "531261f500addbddc3e10624": {
+    "ammoIDs": "127x99",
+    "Unlocks": [
+      "686e959752397d5b3485ad75"
+    ],
+    "Image": "00103-605995934.png",
+    "Difficulty": "5",
+    "Category": "Assault",
+    "TraderNeeded": "2",
+    "oldID": "127x99Q4",
+    "QuestForStart": "531261f500addbddc3e10623",
+    "fromMod": "AK50"
+  },
+  "531261f500addbddc3e10625": {
+    "ammoIDs": "127x99",
+    "Unlocks": [],
+    "Image": "00104-605995935.png",
+    "Difficulty": "8",
+    "Category": "Assault",
+    "TraderNeeded": "3",
+    "oldID": "127x99Q5",
+    "QuestForStart": "531261f500addbddc3e10624",
+    "fromMod": "AK50"
+  }
+}
