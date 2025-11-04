@@ -44,13 +44,13 @@ export class BulletGeneration
 
             for (const ammoName in variant.Bullets) {
                 const ammo = Object.values(ammoDB).filter(ammo => ammo.Name === ammoName)[0];
-                const caliberInfo = this.Instance.helpers.dbCalibers[ammo.Caliber];
-
-                const variantShortName = `${caliberInfo.shortName} ${variant.ShortName}`;
-
+                if (!ammo) continue;
+                
                 const copiedItem = this.Instance.database.templates.items[ammo.ID];
                 if (!copiedItem) continue;
 
+                const caliberInfo = this.Instance.helpers.dbCalibers[ammo.Caliber];
+                const variantShortName = `${caliberInfo.shortName} ${variant.ShortName}`;
                 const copiedItemHandbook = this.Instance.database.templates.handbook.Items.filter(item => item.Id === ammo.ID)[0];
 
                 if (!bulletsIds[ammo.ID]) {

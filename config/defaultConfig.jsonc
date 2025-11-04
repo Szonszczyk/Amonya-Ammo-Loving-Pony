@@ -41,6 +41,11 @@
         /*22 */"Mini-nuke": true,
         /*23 */"Cluster Bomb": true
     },
+    // You can add that some weapons are copies of other (in normal way if weapons fullname is part of other weapon fullname, this other weapon is a copy)
+    "weaponCopies": { //"weaponIDofCopy": "weaponIdofBase"
+        "66839591f4d0cba7b041b2af": "5447a9cd4bdc2dbd208b4567", // WTT-Armory | Patriot
+        "675ceb83e25d80bc676e15a6": "665fe0e865683281eb8e7ed6"  // WTT-Armory | Prodigy
+    },
     // NOT-WORKING AT THIS MOMENT
     "mode": {
         "normal": {

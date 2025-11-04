@@ -127,6 +127,9 @@ export interface ModConfig
     },
     bullets: {
         [bulletName: string]: boolean
+    },
+    weaponCopies: {
+        [weaponID: string]: string
     }
 }
 

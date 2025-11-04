@@ -71,6 +71,7 @@ export class LocaleHelper
             const questConfig = questDatabase[questID];
 			for (const unlock of questConfig.Unlocks) {
 				const item = this.Instance.database.templates.items[unlock];
+				if (!item) continue;
 				this.ammoDatabase[unlock] = {
 					Name: this.Instance.database.locales.global.en[`${unlock} Name`],
 					ShortName: this.Instance.database.locales.global.en[`${unlock} ShortName`],

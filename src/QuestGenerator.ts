@@ -75,10 +75,8 @@ export class QuestGenerator
         this.localeHelper.createDescriptionsForWeaponsUsedInKillCondition(categoryWeapons, weapons);
         for (const questID in questDatabase) {
             const questConfig: questConfig = questDatabase[questID];
-            if (questConfig.fromMod && !modList.includes(questConfig.fromMod)) {
-                console.log(`Skipped generating ${questID}`)
-                continue;
-            }
+            if (questConfig.fromMod && !modList.includes(questConfig.fromMod)) continue;
+            
             const oldID = questConfig.oldID;
             const difficulty = difficultyDatabase[questConfig.Difficulty];
             const quest = this.questTemplate(questID, questConfig.Image);
