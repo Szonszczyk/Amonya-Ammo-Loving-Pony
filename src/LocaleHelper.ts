@@ -206,7 +206,9 @@ export class LocaleHelper
 
 	public saveLocale(): void
 	{
-		this.Instance.database.locales.global.en = Object.assign(this.Instance.database.locales.global.en, this.locale);
+		for (const locale in this.Instance.database.locales.global) {
+			this.Instance.database.locales.global[locale] = Object.assign(this.Instance.database.locales.global[locale], this.locale);
+		}
 	}
 
 	public stripHtmlTags(input: string): string {
